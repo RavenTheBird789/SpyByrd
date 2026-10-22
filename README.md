@@ -1,6 +1,8 @@
 # SpyByrd
 BLE + WiFi Scanning Reconnaissance Tool
 
+[!Alt text](images/Screenshot_20261022_004203_Gmail.jpg)
+
 Requirements:
 * Ensure that the latest version of python is installed in your terminal (python 3.9+)
 * `bleak` for BLE scanning and `scapy` for WiFi scanning (both are installed from requirements.txt)
