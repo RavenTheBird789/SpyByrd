@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SpyByrd scan results (-o / --output)
+*.csv
