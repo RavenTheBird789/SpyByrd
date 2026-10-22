@@ -23,10 +23,16 @@ source env/bin/activate   # Windows: env\Scripts\activate
 pip install -r requirements.txt
 ````
 
-To run
+To run (on Windows)
 
 ````bash
 python3 passive_scan.py
+````
+
+To run (on Linux)
+
+````bash
+sudo python3 passive_scan.py
 ````
 
 Options
@@ -48,12 +54,6 @@ python3 passive_scan.py --no-wifi -d 10
 
 # BLE + WiFi with CSV export (Linux)
 sudo python3 passive_scan.py --wifi-iface wlan0mon --ble-iface hci0 -d 20 -o scan.csv
-````
-
-Optional shortcut
-
-````bash
-alias scan="python3 passive_scan.py"
 ````
 
 Notes:
