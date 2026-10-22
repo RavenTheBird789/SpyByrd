@@ -1,7 +1,7 @@
 # SpyByrd
 BLE + WiFi Scanning Reconnaissance Tool
 
-![Alt text](images/Screenshot 2026-10-22 005014.png)
+![Alt text](images/Screenshot)
 
 Requirements:
 * Ensure that the latest version of python is installed in your terminal (python 3.9+)
