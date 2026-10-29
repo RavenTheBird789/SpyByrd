@@ -1,5 +1,5 @@
 # SpyByrd 🥷🐧
-BLE + WiFi Scanning Reconnaissance Tool
+BLE and WiFi Scanning Reconnaissance Tool
 
 ![Alt text](images/Screenshot)
 
